@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="add_recipe">My Cookbook</string>
+    <string name="explore_recipe">Explore Recipe</string>
+
+<!-- ADD NEW RECIPE IN MY COOKBOOK-->
+    <string name="recipe_name_label">Recipe Name :</string>
+    <string name="recipe_category_label">Recipe Category :</string>
+    <string name="recipe_image_label">Recipe Image :</string>
+    <string name="recipe_ingredients_label">Recipe Ingredients :</string>
+    <string name="recipe_steps_label">Recipe Steps :</string>
+    <string name="recipe_button_label">Add Recipe !</string>
+    <string name="recipe_header_label">Add New Recipe</string>
+
+<!-- RECIPE TYPE SPINNER   -->
+    <string-array name="Recipes">
+        <item>Beef</item>
+        <item>Chicken</item>
+        <item>Fish</item>
+        <item>Prawn</item>
+        <item>Breakfast</item>
+        <item>Vegetarian</item>
+    </string-array>
+
+<!-- PUBLIC RECIPE DETAILS  -->
+    <string name="recipe_name_label_public">Recipe Name :</string>
+    <string name="recipe_ingredients_label_public">Recipe Ingredients :</string>
+    <string name="recipe_steps_label_public">Recipe Steps :</string>
+    <string name="recipe_details_btn">Recipe Details</string>
+    <string name="edit_recipe_btn">Edit Recipe !</string>
+    <string name="edit_recipe_details_tile">Edit Recipe Details</string>
+    <string name="select_recipe_type_label">SELECT RECIPE TYPE:</string>
+    <string name="my_recipe_title_list">Title</string>
+    <string name="my_recipe_category_list">Category</string>
+    <string name="explore_recipe_btn">Explore Recipe !</string>
+    <string name="choose_an_option_label">Choose an option:</string>
+
+</resources>
