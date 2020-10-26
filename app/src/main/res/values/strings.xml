@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">COOK MATE</string>
     <string name="add_recipe">My Cookbook</string>
-    <string name="explore_recipe">Explore Recipe</string>
+    <string name="explore_recipe">Explore New Recipe</string>
 
 <!-- ADD NEW RECIPE IN MY COOKBOOK-->
     <string name="recipe_name_label">Recipe Name :</string>
