@@ -1,12 +1,12 @@
 <resources>
-    <string name="app_name">Recipe App</string>
+    <string name="app_name">COOK MATE</string>
     <string name="add_recipe">My Cookbook</string>
     <string name="explore_recipe">Explore Recipe</string>
 
 <!-- ADD NEW RECIPE IN MY COOKBOOK-->
     <string name="recipe_name_label">Recipe Name :</string>
     <string name="recipe_category_label">Recipe Category :</string>
-    <string name="recipe_image_label">Recipe Image :</string>
+    <string name="recipe_image_label">Recipe Image (Must be in url) :</string>
     <string name="recipe_ingredients_label">Recipe Ingredients :</string>
     <string name="recipe_steps_label">Recipe Steps :</string>
     <string name="recipe_button_label">Add Recipe !</string>
@@ -22,7 +22,7 @@
         <item>Vegetarian</item>
     </string-array>
 
-<!-- PUBLIC RECIPE DETAILS  -->
+<!-- RECIPE DETAILS  -->
     <string name="recipe_name_label_public">Recipe Name :</string>
     <string name="recipe_ingredients_label_public">Recipe Ingredients :</string>
     <string name="recipe_steps_label_public">Recipe Steps :</string>

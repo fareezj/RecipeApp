@@ -15,29 +15,37 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".ExploreRecipe.RecipeDetailsActivity"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity
             android:name=".ExploreRecipe.RecipeListActivity"
             android:label="Explore Recipe"
+            android:screenOrientation="portrait"
             android:theme="@style/AppTheme"/>
         <activity
             android:name=".ExploreRecipe.ChooseRecipeTypeActivity"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity
             android:name=".MyCookbook.MyRecipeEditActivity"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity
             android:name=".MyCookbook.MyRecipeDetailsActivity"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity
             android:name=".MyCookbook.MyRecipeListViewActivity"
+            android:screenOrientation="portrait"
             android:label="My Cookbook"
             android:theme="@style/AppTheme"/>
         <activity
             android:name=".MyCookbook.AddRecipeActivity"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity
             android:name=".MainActivity"
+            android:screenOrientation="portrait"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
